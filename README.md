@@ -1,6 +1,6 @@
 ### 基本功能部分
 
-<img src="D:\ComputerScience\cs_2020_Fall_EduC-Lang\snakeProject\Game.png" style="zoom:50%;" />
+<img src="./Game.png" style="zoom:50%;" />
 
 #### 1.文件开头规则说明
 
